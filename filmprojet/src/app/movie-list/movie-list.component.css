@@ -1,0 +1,34 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-avengers {
+    width: 100px;
+    height: 56px;
+    background-image: url('/avengerslogo.png');
+    background-size: cover;
+  }
+  .example-header-hulk {
+    width: 100px;
+    height: 56px;
+    background-image: url('/hulklogo.png');
+    background-size: cover;
+  }
+  .example-header-ironMan {
+    width: 100px;
+    height: 56px;
+    background-image: url('/ironManlogo.png');
+    background-size: cover;
+  }
+  .example-header-spiderMan {
+    width: 100px;
+    height: 56px;
+    background-image: url('/spidermanlogo.png');
+    background-size: cover;
+  }
+  .example-header-thor {
+    width: 100px;
+    height: 56px;
+    background-image: url('/thorlogo.png');
+    background-size: cover;
+  }
